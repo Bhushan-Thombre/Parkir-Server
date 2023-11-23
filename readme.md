@@ -7,7 +7,29 @@
 
 ## About The Project
 
-<p>Parkir is a highly scalable and user-friendly application designed to facilitate efficient traffic distrubution by leveraging real-time parking updates and accurate Dynamic pricing by using geo tracking technology. This repository contains the server side of the application.</p>
+<p>Parkir is a highly scalable and user-friendly application designed to facilitate efficient traffic distribution by leveraging real-time parking updates and accurate Dynamic pricing by using geo tracking technology. This repository contains the server side of the application.</p>
+<h2>
+
+## Run The Project
+
+- Clone this repository.
+
+```
+git clone https://github.com/Bhushan-Thombre/Parkir-Server.git
+```
+
+- Install all dependencies
+
+```
+npm install
+```
+
+- Run the server
+
+```
+npm run server
+```
+
 <h2>
 
 ## Features:
